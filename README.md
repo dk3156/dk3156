@@ -4,7 +4,7 @@
 [![Gmail_Badge](https://img.shields.io/badge/Gmail-CC2D29?style=flat&logo=gmail&logoColor=white)](mailto:djkim0424@gmail.com)
 
 ### 🖋️ Blog
-[![blog](https://img.shields.io/badge/Tistory-8A2BE2)](djkim0424.tistory.com)
+[![blog](https://img.shields.io/badge/Tistory-8A2BE2)](https://djkim0424.tistory.com)
 
 ### Career
 - `23.12 - 24.04` **내일배움캠프 Data Analyst Track**
